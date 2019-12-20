@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ICQClient.AboutBox1">
+    <Position X="0.5" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutBox1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICQClient.AesEncryption">
+    <Position X="8.5" Y="6.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAEAAAAAAAAgAAIAAAQAAAAAAQBAAAAAAAA=</HashCode>
+      <FileName>AesEncryption.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICQClient.Connection">
+    <Position X="10.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAgQADAAkAAgAAAAIAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Connection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICQClient.Form1">
+    <Position X="3.25" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="ICQClient.Form1.delegateSetTextBox">
+        <TypeIdentifier>
+          <NewMemberFileName>Form1.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AWAEAIIAASAQKDQABAC0AQhCKEg4gAAQEXAICQAAICA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICQClient.Form2">
+    <Position X="12.25" Y="0.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAASAACBCAAACwAAhCIAAIgAAAEEAAAQAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICQClient.MyAes">
+    <Position X="6.25" Y="0.75" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="ICQClient.MyAes.Padding">
+        <TypeIdentifier>
+          <NewMemberFileName>MyAes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="ICQClient.MyAes.Mode">
+        <TypeIdentifier>
+          <NewMemberFileName>MyAes.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AUAAQEAAAAAAEABREEFIOBAAAAAIDAAABigAAAGCAQQ=</HashCode>
+      <FileName>MyAes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICQClient.Program">
+    <Position X="0.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICQClient.Requests">
+    <Position X="0.5" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgBAAAAAAAAACAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Requests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICQClient.UDPServer">
+    <Position X="8.75" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="ICQClient.UDPServer.GetRecevice">
+        <TypeIdentifier>
+          <NewMemberFileName>UDPServer.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAABAAAAAAAABABAAAQEARIAAAKIMAAA=</HashCode>
+      <FileName>UDPServer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
