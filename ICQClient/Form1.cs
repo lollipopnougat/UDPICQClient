@@ -67,7 +67,7 @@ namespace ICQClient
                 // 处理接收逻辑
                 //textBox1.Text += DateTime.Now.ToString() + " : " + message;
                 //string tmp = DateTime.Now + " " + uname + " : " + message;
-                mes = DateTime.Now + " " + uname + " : " + demsg + "\r\n";
+                mes = DateTime.Now + " " + tname + " : " + demsg + "\r\n";
                 setTextBox1(mes);
                 //MessageBox.Show(tmp, "消息");
                 //string tmp = DateTime.Now+ " : " + message;
